@@ -13,15 +13,6 @@
 
 
 
-## About me
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
-
 
 
 
