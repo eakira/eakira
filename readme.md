@@ -1,4 +1,4 @@
-## I'm Akira!
+## Hi, I'm Akira!
 
 
 :computer: I'm back-end Developer! 
@@ -11,7 +11,7 @@
 
 :computer: working with laravel since 2016
 
-
+:computer: linux enthusiastic
 
 
 
