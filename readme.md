@@ -14,3 +14,10 @@
 :computer: working with Golang since 2023
 
 :computer: linux enthusiastic
+
+
+I have recently started working on a Go ecosystem to manage investments and perform their pricing. This project serves as an opportunity to explore new technologies.
+
+
+
+![image](https://github.com/user-attachments/assets/7e8f5daa-d99b-4b9a-adbd-93c5d975687d)
